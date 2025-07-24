@@ -17,7 +17,7 @@
 
 - 🔭 **Currently Learning** about Generating API's and Firebase in Kotlin
 - 💬 **Ask me about** Kotlin, MySQL, C++
-- ⚡ **Fun Fact** about me is that I think I am a Fast Learner
+- ⚡ **Fun Fact** about me is that I am a Fast Learner
 - 📫 **How to reach me:** rathikrish539@gmail.com
 
 ---
