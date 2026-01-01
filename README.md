@@ -1,137 +1,147 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Hi+Everyone!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Hey!+I'm+Krish+Rathi+👋;Android+Developer+%7C+Jetpack+Compose;Building+Scalable+Mobile+Experiences+🚀" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krish%20Rathi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
-# <div align="center">🚀 About Me</div>
+---
 
-<h2 align="center">I am a passionate Android Developer from India 🇮🇳 💻</h2>
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishrathi08&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/krishrathi08?label=Followers&style=social" alt="GitHub Badge">
-</p>
+🎓 **B.Tech ECE @ IIIT Bhopal (2023–2027)**  
+📱 **Android Developer | Kotlin | Jetpack Compose | Firebase**  
+🎨 **Graphic Designer @ AXIOS & IICPC, IIIT Bhopal**  
 
-- 🔭 **Currently Learning** about Generating API's and Firebase in Kotlin
-- 💬 **Ask me about** Kotlin, MySQL, C++
-- ⚡ **Fun Fact** about me is that I am a Fast Learner
-- 📫 **How to reach me:** rathikrish539@gmail.com
+I build **modern, scalable Android applications** using **Jetpack Compose, MVVM, Firebase, and REST APIs**.  
+I enjoy converting **complex requirements into clean UI/UX** and performant code.
+
+- 🔭 Currently working on **Full-stack Android apps**
+- ⚙️ Focused on **Jetpack Compose, Firebase, Secure Auth**
+- 🧠 Strong foundation in **DSA, OOPs, DBMS**
+- ⚡ Fast learner with a problem-solving mindset
+
+📫 **Reach me:** `rathikrish539@gmail.com`
 
 ---
 
-# <div align="center">🛠️ Languages, Frameworks and Software</div>
+## 🧠 Tech Stack
+
+### 📱 Android Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+
+### 💻 Programming & Databases
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+
+### 🛠 Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
+
+---
+
+## 💼 Experience
+
+### 🚀 Android App Developer Intern — **Maya Exchange**
+**July 2025 – Sept 2025**
+
+- Built production-grade Android features using **Kotlin + Jetpack Compose**
+- Integrated **real-time crypto APIs**, reducing data latency by **20%**
+- Implemented **secure authentication** (OAuth2, Biometric Login)
+- Worked on **fintech-level security workflows (KYC / AML)**
+
+### 🎨 Graphic Designer — **AXIOS & IICPC, IIIT Bhopal**
+- Designed **40+ creatives**, banners & promo videos
+- Led branding for **multiple hackathons & college events**
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 **GoodDeed**  
+📱 *Android | Kotlin | Jetpack Compose | Firebase | Google Maps*
+
+- Full-stack social impact app with **20+ screens**
+- Role-based flows: **Volunteer & Organizer**
+- Firebase Firestore (4 real-time collections)
+- Google Maps integration for **event discovery**
+- Gamification system with **badges & user stats**
+
+🔗 GitHub: *Coming Soon / Private*
+
+---
+
+### 🧠 **Mental Wellness Tracker**
+📱 *Kotlin | Jetpack Compose | Firebase | MVVM*
+
+- Secure journal with **AES-256 local encryption**
+- Firebase Auth + Firestore persistence
+- Insights dashboard with **real-time charts (Vico)**
+- Smart recommendations based on **7-day mood & sleep data**
+- Fully redesigned using **Material 3**
+
+🔗 GitHub: https://github.com/krishrathi08
+
+---
+
+### 🍽️ **Waves Of Food – Food Ordering App**
+📱 *Kotlin | Android*
+
+- Modern UI with Home, Cart, Search, Profile
+- Live order tracking & cart system
+- Clean architecture & smooth UX
+
+🔗 GitHub: https://github.com/krishrathi08/Waves-Of-Food---Food-Ordering-App
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Runner-Up (App Dev)** — *Suprathon Hackathon* (250+ teams)
+- ⭐ **13,000+ points on TUF+**, 120+ DSA problems
+- 🏅 **CodeChef Global Rank 33** (Starters 219)
+- 📊 CodeChef Rating: **1573** | LeetCode: **1652**
+- ⚽ Represented IIIT Bhopal in **Inter-IIIT Sports Meet**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishrathi08&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishrathi08&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-### 📱 Mobile Development
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### 🔧 Version Control & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 🎨 Design Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krish-rathi-aa2156290/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:rathikrish539@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/krishrathi08)
+[![TUF+](https://img.shields.io/badge/TUF+-FF6B35?style=for-the-badge)](https://takeuforward.org/plus/profile)
 
 </div>
 
 ---
 
-# <div align="center">📊 GitHub Stats</div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishrathi08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishrathi08&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishrathi08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----
-
-# <div align="center">🏆 GitHub Trophies</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishrathi08&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-# <div align="center">🎯 Featured Projects</div>
-
-<div align="center">
-
-## 🍽️ [Food Ordering App - Waves Of Food](https://github.com/krishrathi08/Waves-Of-Food---Food-Ordering-App)
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-
-🍽️ Modern Food Ordering App with a clean UI and essential sections like Home, Cart, Search, History & Profile.  
-🛒 Seamless Add to Cart & Live Order Tracking with real-time status updates via notifications.  
-⚡ User-Friendly Design ensuring fast navigation and a smooth, intuitive experience.
-
----
-
-## 🛍️ [Shopping List App](https://github.com/krishrathi08/Shopping-List-App)
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-
-🛍️ Simple Shopping App UI with core screens like Home, Cart, and Product Listings.  
-🛒 Add to Cart Functionality implemented using in-memory storage.  
-⚡ Clean & Responsive Layout for a smooth and intuitive user experience.
-
----
-
-## 📏 [Unit Converter App](https://github.com/krishrathi08/UnitConverter)
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-
-📏 Minimalist Unit Converter for quick and accurate dimension conversions (length, area, etc.).  
-🔁 Instant Conversion between metric and imperial units with a clean, responsive UI.  
-⚡ Lightweight & Easy-to-Use, built for speed and simplicity—no clutter, just results.
-
-</div>
-
----
-
-# <div align="center">🤝 Connect with Me</div>
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathikrish539@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-rathi-aa2156290/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishrathi08)
-[![TakeUForward](https://img.shields.io/badge/TUF+-FF6B35?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://takeuforward.org/plus/profile)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Thank+You+For+Visiting!+%F0%9F%99%8F;Happy+to+Collab+%F0%9F%A4%9D;Reach+me+out+at+my+Social+Handles!+%F0%9F%93%B1" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Thanks+for+visiting!+🙏;Always+open+to+collaborate+🤝" />
 </div>
