@@ -79,7 +79,7 @@ I enjoy converting **complex requirements into clean UI/UX** and performant code
 - Google Maps integration for **event discovery**
 - Gamification system with **badges & user stats**
 
-🔗 GitHub: *Coming Soon / Private*
+🔗 GitHub: https://github.com/krishrathi08/GoodDeedApp
 
 ---
 
@@ -92,7 +92,7 @@ I enjoy converting **complex requirements into clean UI/UX** and performant code
 - Smart recommendations based on **7-day mood & sleep data**
 - Fully redesigned using **Material 3**
 
-🔗 GitHub: https://github.com/krishrathi08
+🔗 GitHub: https://github.com/krishrathi08/MentalWellnessTracker
 
 ---
 
