@@ -37,7 +37,7 @@ I enjoy turning **complex ideas into smooth UI/UX** while maintaining **clean, m
 
 ### 📱 Android
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,android,firebase" />
+  <img src="https://skillicons.dev/icons?i=kotlin,firebase" />
 </p>
 
 ### 💻 Programming & Databases
@@ -125,19 +125,6 @@ I enjoy turning **complex ideas into smooth UI/UX** while maintaining **clean, m
 - 🏅 **CodeChef Global Rank 33**
 - 📊 CodeChef **1573** | LeetCode **1652**
 - ⚽ Represented IIIT Bhopal at **Inter-IIIT Sports Meet**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishrathi08&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishrathi08&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishrathi08&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
