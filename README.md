@@ -69,7 +69,7 @@ I enjoy turning **complex ideas into smooth UI/UX** while maintaining **clean, m
 
 ---
 
-### 🎨 Graphic Designer — **AXIOS & IICPC, IIIT Bhopal**
+### 🎨 Graphic Designer — **AXIOS, IIIT Bhopal & IICPC**
 
 - Designed **40+ creatives**, banners & promotional videos  
 - Led branding for **multiple hackathons & college events**
