@@ -8,9 +8,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishrathi08&label=Profile%20Views&color=00E5FF&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/krishrathi08?label=Followers&color=7F00FF&style=flat-square"/>
-  <img src="https://img.shields.io/badge/LeetCode-1652-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeChef-1573-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  <a href="https://github.com/krishrathi08" target="_blank">
+    <img src="https://img.shields.io/github/followers/krishrathi08?label=Followers&color=7F00FF&style=flat-square"/>
+  </a>
+  <a href="https://leetcode.com/u/krishrathi8/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-1652-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/krishrathi2005" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-1573-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.rathi-krish.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-rathi--krish.in-00E5FF?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -72,7 +81,7 @@
 * **Production Success**: Deployed a fully functional meditation application on the Google Play Store, earning **1K+ downloads**, a **4.7★ rating**, and **40+ reviews**.
 * **Offline-First Architecture**: Built a resilient local persistence layer using **Room DB**, combined with **Mavericks** and **Coroutines** for scalable state management.
 * **Audio & Engagement**: Integrated **Media3 ExoPlayer** for seamless background audio streaming, Firebase Cloud Messaging, Crashlytics, and WorkManager for background jobs.
-* 🔗 [**GitHub**](https://github.com/krishrathi08/MentalWellnessTracker) | [**Play Store**](https://play.google.com/store)
+* 🔗 [**GitHub**](https://github.com/krishrathi08/Meditation-Mind) | [**Play Store**](https://play.google.com/store/apps/details?id=com.invictus.meditationmind)
 
 #### 🌍 **GoodDeed**
 *Kotlin | Jetpack Compose | Firebase Firestore & Storage | Google Maps API*
@@ -102,12 +111,12 @@
 * **Robust Ledger API**: Designed and documented **15+ secure RESTful API endpoints** and 7 modular dashboards (Accounts, Payments, Schedules, Beneficiaries, Statements, Reports, Admin).
 * **Double-Entry Ledger**: Programmed a transaction processing engine ensuring 100% ledger consistency in **under 80ms**, handling 10,000+ mock records, and generating real-time PDF statements.
 * **Enhanced Security**: Added Google OAuth, JWT, **6-digit Email OTP** verification, and custom API rate-limiters preventing 99.9% of brute-force attempts.
-* 🔗 [**GitHub**](https://github.com/krishrathi08)
+* 🔗 [**GitHub**](https://github.com/krishrathi08/Bank_Transaction_System) | [**Live Demo**](https://bank-transaction-system-five.vercel.app/)
 
 #### 🖥️ **Personal Portfolio & Project Hub**
 *React.js | Vite | Sass | Vercel*
 * **High Performance**: Built a fully responsive developer portfolio, optimizing asset delivery and scripts to achieve page load times **under 1.2 seconds**.
-* 🔗 [**GitHub**](https://github.com/krishrathi08)
+* 🔗 [**GitHub**](https://github.com/krishrathi08/Portfolio) | [**Live Demo**](https://www.rathi-krish.in/)
 
 ---
 
